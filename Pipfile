@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 cookiecutter = "*"
 imgui = {extras = ["glfw"], version = "*"}
+numpy = "*"
 
 [dev-packages]
 black = "*"
